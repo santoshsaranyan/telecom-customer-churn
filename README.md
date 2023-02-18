@@ -14,4 +14,3 @@ By knowing the key features, telecom companies can focus on these areas to impro
 
 Source for the data: https://www.kaggle.com/c/telecom-churn-case-study-hackathon-gc1/data 
 
-SML_telecom_churn.ipynb includes dealing with the random forest model and SML_telecom_Adaboost_DT.ipynb deals with the Adaboost and decision tree models.
